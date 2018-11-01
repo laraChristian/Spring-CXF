@@ -1,0 +1,5 @@
+co\com\spring\cxf\config\SpringWebInitializer.class
+co\com\spring\cxf\data\HelloWorldRepository.class
+co\com\spring\cxf\apis\HelloApi.class
+co\com\spring\cxf\config\RootConfig.class
+co\com\spring\cxf\data\HelloWorld.class
